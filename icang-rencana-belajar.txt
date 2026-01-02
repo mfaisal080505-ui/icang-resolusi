@@ -5,7 +5,11 @@ RENCANA BELAJAR ICANG
  * Perbedaan linux dan windows
  * Distro linux
 - Dasar terminal
+ * struktur perintah
 - Belajar administrasi linux
 - Belajar sistem linux dasar
+ * struktur dasar 
+ * Navigasi & operasi file 
 - Belajar GitHub 
+- Perangkat keras & komfigurasi 
 - Review materi 
