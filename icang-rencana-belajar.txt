@@ -1,6 +1,9 @@
 RENCANA BELAJAR ICANG
 
 - Belajar linux dasar
+ * Apa itu linux
+ * Perbedaan linux dan windows
+ * Distro linux
 - Belajar administrasi linux
 - Belajar sistem linux dasar
 - Belajar GitHub 
